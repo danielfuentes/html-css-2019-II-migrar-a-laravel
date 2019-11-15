@@ -8,8 +8,8 @@ Este constituye un código desarrollado con HTML + CSS, con la intención que el
 
 ## Recomendaciones para migrar a Laravel, luego de haber descargado este Proyecto:
 
-- [Crear una carpeta donde tendás tu proyecto de Laravel]
-- [Te debes pasar a esa carpeta (cd laravel)]
+- Crear una carpeta donde tendás tu proyecto de Laravel
+- Te debes pasar a esa carpeta (cd laravel)
 - [Ejecutar el comando: composer create-project laravel/laravel proyecto]
 - [Ahora debes ingresar a esa carpeta que ahora contiene tu proyecto de arranque en Laravel - (cd proyecto)]
 - [Debes editar el archivo .env y allí debes crear la conexión a la Base de Datos, aquí puedes colocar cualquier nombre en base a tu proyecto deseado]
