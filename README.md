@@ -1,7 +1,6 @@
 # html-css-2019-II-migrar-a-laravel
 Código HTML + CSS muy sencillo para migrar al Framework Laravel
 
-<p align="center"><img src="http://cedavilu.com/wp-content/uploads/2019/11/logo_daniel.png width="400"></p>
 
 ## Amigas y amigos
 
