@@ -27,14 +27,3 @@ Este constituye un código desarrollado con HTML + CSS, con la intención que el
 - Finalmebte debes activar el servidor ejecutando el comando: php artisan serve
 
 Ingresa a tu navegador y escribes: localhost:8000 y listo ya tienes todo lo referido al Registro y Login en tu proyecto de Laravel, ahora SI !!! a migrar lo que descargastes a Laravel.
-
-
-
-
-
-
-
-
-## Si se animan pueden ir de a poco desarrollando los módelos y controladores necesarios
-
-Ya estan creadas las rutas y también las vistas.
